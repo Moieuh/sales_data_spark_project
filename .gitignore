@@ -1,0 +1,6 @@
+hadoop.env
+data/OnlineRetail.csv
+data/OnlineRetail.xlsx
+output/
+docs/
+.vscode/settings.json
